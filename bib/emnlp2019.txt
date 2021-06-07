@@ -1,0 +1,6 @@
+@inproceedings{Wang:2019:Uncertainty,
+    title = "Improving Back-Translation with Uncertainty-based Confidence Estimation",
+    author = "Wang, Shuo and Liu, Yang and Wang, Chao and Luan, Huanbo and Sun, Maosong",
+    booktitle = "EMNLP",
+    year = "2019"
+}

@@ -1,0 +1,6 @@
+@inproceedings{Wang:2021:LCB,
+    title = "On the Language Coverage Bias for Neural Machine Translation",
+    author = "Wang, Shuo and Tu, Zhaopeng and Tan, Zhixing and Shi, Shuming and Sun, Maosong and Liu, Yang",
+    booktitle = "Findings of ACL",
+    year = "2021"
+}
